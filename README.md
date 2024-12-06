@@ -61,8 +61,8 @@ gcc main.c user.c inventory.c cart.c billing.c report.c file_operations.c -o Gro
 3.Run the Executable
 ./GroceryManager
 
-##Creator
-Project Developed by https://github.com/dharshini543
+
+###Project Developed by https://github.com/dharshini543
 
 
 
