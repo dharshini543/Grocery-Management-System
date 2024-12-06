@@ -1,0 +1,11 @@
+Inventory
+1|Milk|Nandini|30.00|40.00|Dairy|22/12/2024
+2|Curd|Dodla|35.00|60.00|Dairy|27/12/202
+3|Ghee|GRB|75.00|35.00|Dairy|28/12/2024
+4|Coffee|Levista|55.00|50.00|Grocery|12/5/2025
+5|Tea|3Roses|50.00|60.00|Grocery|13/7/2025
+6|Sugar|TATA|45.00|50.00|Grocery|15/8/2025
+7|Rice|IndiaGate|150.00|50.00|Grains|12/12/2025
+EndInventory
+Report
+EndReport

@@ -1,0 +1,15 @@
+# ninja log v6
+33	89	7551648439403709	CMakeFiles/GroceryManagement.dir/inventory.c.obj	11fb45c81b15fe3
+31	168	7547582053136426	CMakeFiles/GroceryManagement.dir/main.c.obj	9093d901c2c18973
+38	114	7551638397667222	CMakeFiles/GroceryManagement.dir/report.c.obj	79236f151918126
+24	228	7548625736590483	CMakeFiles/GroceryManagement.dir/user.c.obj	c4eedf047e595fec
+46	113	7551638397737596	CMakeFiles/GroceryManagement.dir/file_operations.c.obj	e8790133ad71959a
+72	167	7549903184387371	CMakeFiles/GroceryManagement.dir/cart.c.obj	cf8f095b42114d20
+36	113	7551638397642056	CMakeFiles/GroceryManagement.dir/billing.c.obj	f5e548c7ee3dd461
+37	146	7545859214776347	CMakeFiles/GroceryManagement.dir/main1.c.obj	91b936ea7d4599be
+90	145	7551648439973689	GroceryManagement.exe	18faa63683ba47f8
+21	30	7547567765977989	clean	577b940aee94fbd7
+32	88	7551640680504871	CMakeFiles/GroceryManagement.dir/start.c.obj	1cd98a083dc0d252
+41	197	7551695453648728	CMakeFiles/GroceryManagement.dir/start.c.obj	1cd98a083dc0d252
+38	197	7551695453618827	CMakeFiles/GroceryManagement.dir/inventory.c.obj	11fb45c81b15fe3
+197	289	7551695455203784	GroceryManagement.exe	18faa63683ba47f8

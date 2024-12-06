@@ -1,0 +1,7 @@
+C:/Projects/PROJECT/My project/GroceryManagement/GroceryManager/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/GroceryManagement.dir
+C:/Projects/PROJECT/My project/GroceryManagement/GroceryManager/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+C:/Projects/PROJECT/My project/GroceryManagement/GroceryManager/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+C:/Projects/PROJECT/My project/GroceryManagement/GroceryManager/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+C:/Projects/PROJECT/My project/GroceryManagement/GroceryManager/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install.dir
+C:/Projects/PROJECT/My project/GroceryManagement/GroceryManager/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+C:/Projects/PROJECT/My project/GroceryManagement/GroceryManager/build/Desktop_Qt_6_8_0_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
